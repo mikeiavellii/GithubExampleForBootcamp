@@ -1,0 +1,15 @@
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\bin\Debug\net6.0\day1Lecture.exe
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\bin\Debug\net6.0\day1Lecture.deps.json
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\bin\Debug\net6.0\day1Lecture.runtimeconfig.json
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\bin\Debug\net6.0\day1Lecture.dll
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\bin\Debug\net6.0\ref\day1Lecture.dll
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\bin\Debug\net6.0\day1Lecture.pdb
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.csproj.AssemblyReference.cache
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.AssemblyInfoInputs.cache
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.AssemblyInfo.cs
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.csproj.CoreCompileInputs.cache
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.dll
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\obj\Debug\net6.0\ref\day1Lecture.dll
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.pdb
+D:\Programs\Applications\Visual Studio\day1Lecture\day1Lecture\obj\Debug\net6.0\day1Lecture.genruntimeconfig.cache
